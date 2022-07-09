@@ -267,7 +267,9 @@ ul {
 .team {
   background-color: var(--secondary-bg-color);
 }
-
+.team-title {
+  padding-top: 94px;
+}
 .team-list {
   display: flex;
   gap: 30px;
